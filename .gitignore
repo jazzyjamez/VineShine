@@ -4,3 +4,13 @@
 .project
 
 chrille.jpg
+
+BehindTheScene/*
+
+DBconfig.php
+
+*.sqlite
+
+*.MOV
+
+*.webm
